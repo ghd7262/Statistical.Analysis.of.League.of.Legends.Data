@@ -1,5 +1,5 @@
-# Statistical Analysis of League of Legends Data
-## Motive: Review & Application of Mathematical Statistics on League of Legends Ranked Match Data
+# Statistical Analysis of League of Legends Data ('19 Summer)
+## Motive: Review & Application of Mathematical Statistics on Ranked Matches
 ### Table of Contents:
 - Test on Paired Population
 - Test on Independent Population
